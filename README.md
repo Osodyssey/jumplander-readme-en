@@ -1,5 +1,5 @@
 
-# JumpLander — The Ninja Coder’s Workshop (Interactive User Panel Guide)
+# JumpLander — Hero coder (Interactive User Panel Guide)
 
 This guide is a practical, step-by-step user manual for the **JumpLander** AI coding panel. It assumes you are already logged in and have access to the editor, AI chat, and Agents. The goal: help you work efficiently and safely with the platform to generate, refactor, secure, and ship code using AI assistants.
 
